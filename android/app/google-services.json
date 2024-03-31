@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "50622294642",
+    "project_id": "tailorshop-93609",
+    "storage_bucket": "tailorshop-93609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50622294642:android:6db8425dfb04b7b34a70eb",
+        "android_client_info": {
+          "package_name": "io.github.quickthinkai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50622294642-667pqtnfu763ctj8tlcqp2llm50c5g7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.quickthinkai",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "50622294642-q0b503qj3l2fovvbgnnu9fhntelnimu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEekV9MnY_W5jIHv_TTd6Y4adkMlhQBmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50622294642-q0b503qj3l2fovvbgnnu9fhntelnimu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50622294642-rr3or84dh54ad1o9s84unmtiqs6fi9f3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.quickthinkai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50622294642:android:94536ec4f5b0ffdf4a70eb",
+        "android_client_info": {
+          "package_name": "mytailorshop.io.github.quickthinkai.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50622294642-kgk80d3989uk1d4nf4bqeg1cb14om9ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mytailorshop.io.github.quickthinkai.v1",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "50622294642-q0b503qj3l2fovvbgnnu9fhntelnimu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEekV9MnY_W5jIHv_TTd6Y4adkMlhQBmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50622294642-q0b503qj3l2fovvbgnnu9fhntelnimu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50622294642-rr3or84dh54ad1o9s84unmtiqs6fi9f3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.quickthinkai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

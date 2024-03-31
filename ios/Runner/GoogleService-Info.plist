@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>50622294642-uilhdai1tno1gf8r627raov1c9ltcopc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.50622294642-uilhdai1tno1gf8r627raov1c9ltcopc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>50622294642-667pqtnfu763ctj8tlcqp2llm50c5g7n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhrp_drghHjfjdjZ4LhgFCvHyWYtSs7vQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>50622294642</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mytailorshop.io.github.quickthinkai.v1</string>
+	<key>PROJECT_ID</key>
+	<string>tailorshop-93609</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tailorshop-93609.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:50622294642:ios:ac7ea9d5b140af014a70eb</string>
+</dict>
+</plist>
